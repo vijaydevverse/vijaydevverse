@@ -1,8 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Vijay Krishnan P.M</h1>
 <h3 align="center">
-  🎯 Aspiring Data Scientist | B.Sc. CS (Data Science)
-</h3>
+  🎯 Aspiring Data Scientist | B.Sc. Computer Science with Data Science</h3>
 
 <!-- Typing Animation -->
 <p align="center">
