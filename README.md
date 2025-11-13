@@ -17,7 +17,7 @@
 
 ---
 
-### 🌱 About Me
+### 💻 About Me
 
 - 🌱 Currently learning **AI Development and other programming languages**  
 - 💡 Certified in **IBM Data Science, Oracle Cloud, and SQL**  
