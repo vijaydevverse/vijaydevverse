@@ -17,7 +17,7 @@
 
 ---
 
-### 💼 About Me
+### 🌱 About Me
 
 - 🌱 Currently learning **AI Development and other programming languages**  
 - 💡 Certified in **IBM Data Science, Oracle Cloud, and SQL**  
@@ -35,13 +35,13 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vijay-krishnan-p-m-46045a33a" target="blank">
+  <a href="https://www.linkedin.com/in/vijay-krishnan-p-m-46045a33a" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/___.v___.k___" target="blank">
+  <a href="https://www.instagram.com/___.v___.k___" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://www.facebook.com/vijay.kannan.3551380" target="blank">
+  <a href="https://www.facebook.com/vijay.kannan.3551380" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
 </p>
@@ -67,7 +67,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vijaydevverse&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaydevverse&theme=tokyonight" alt="GitHub Streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=vijaydevverse&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
