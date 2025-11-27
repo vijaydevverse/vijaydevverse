@@ -10,11 +10,6 @@
   </a>
 </p>
 
-<!-- Profile Views -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=vijaydevverse&label=Profile%20views&color=0e75b6&style=flat" alt="vijaydevverse" /> 
-</p>
-
 ---
 
 ### 💼 About Me
