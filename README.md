@@ -59,11 +59,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaydevverse&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img 
-
----
-
 <p align="center">✨ “Turning Data into Insight, One Model at a Time” ✨</p>
