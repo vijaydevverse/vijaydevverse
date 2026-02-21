@@ -22,10 +22,11 @@
 
 ---
 
-### 📫 How to reach me:
-📧 **vijaykrishnanpm@gmail.com**  
-🌐 [**github.com/vijaydevverse**](https://github.com/vijaydevverse)
-🔗 https://www.linkedin.com/in/vijay-krishnan-p-m-46045a33a/
+## 📫 How to reach me:
+
+- 📧 Email: vijaykrishnanpm@gmail.com  
+- 💻 GitHub: https://github.com/vijaydevverse  
+- 🔗 LinkedIn: https://www.linkedin.com/in/vijay-krishnan-p-m-46045a33a/
 
 ---
 
