@@ -14,12 +14,13 @@
 
 ### 💼 About Me
 
-- 🌱 Currently learning **AI Development and other programming languages**  
-- 💡 Certified in **IBM Data Science, Oracle Cloud, and SQL**  
-- 💻 Skilled in **Python, SQL, Excel, Power BI, and Data Visualization**  
-- 🎯 Passionate about **turning data into actionable insights**  
+- 🤖 Exploring **Generative AI, AI Development, and Advanced Data Science**
+- 💻 Skilled in **Python, SQL, Excel, Power BI, Machine Learning, Deep Learning, and Data Visualization**
+- 🏆 Certified in **IBM Data Science, Oracle Cloud, and SQL**
+- 📊 Passionate about **Data Science, Artificial Intelligence, and transforming data into actionable insights**
+- 🚀 Continuously learning and building AI-driven solutions to solve real-world problems
 - ⚡ Fun fact: I love **music 🎵, gaming 🎮, and exploring new tech!**
-
+  
 ---
 
 ## 📫 How to reach me:
