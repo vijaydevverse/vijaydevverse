@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Vijay Krishnan P.M</h1>
 <h3 align="center">
-  🎯 Aspiring Data Scientist | B.Sc. Computer Science with Data Science | 🎓 Pursuing Master of Computer Applications (MCA)</h3> 
+  🎯 Aspiring Data Scientist | B.Sc. Computer Science with Data Science Graduate | 🎓 Pursuing Master of Computer Applications (MCA)</h3> 
 
 <!-- Typing Animation -->
 <p align="center">
