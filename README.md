@@ -14,12 +14,14 @@
 
 ### 💼 About Me
 
-- 🤖 Exploring **Generative AI, AI Development, and Advanced Data Science**
-- 💻 Skilled in **Python, SQL, Excel, Power BI, Machine Learning, Deep Learning, and Data Visualization**
-- 🏆 Certified in **IBM Data Science, Oracle Cloud, and SQL**
-- 📊 Passionate about **Data Science, Artificial Intelligence, and transforming data into actionable insights**
-- 🚀 Continuously learning and building AI-driven solutions to solve real-world problems
-- ⚡ Fun fact: I love **music 🎵, gaming 🎮, and exploring new tech!**
+- 🎓 **MCA Student** | B.Sc. Computer Science with Data Science Graduate
+- 📊 Aspiring **Data Scientist** passionate about leveraging data to drive informed decisions and create impactful solutions
+- 💻 Proficient in **Python, SQL, MongoDB, Power BI, Tableau, Excel, Data Visualization, and Analytics**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Generative AI**
+- 🏆 Certified in **IBM Data Analytics, Oracle Cloud, and SQL**
+- 🚀 Building real-world projects that transform data into actionable insights and intelligent solutions
+- 🌱 Committed to continuous learning, innovation, and staying current with emerging technologies
+- ⚡ Outside of technology, I enjoy **Music 🎵, Gaming 🎮, and Exploring New Technologies 🚀**
   
 ---
 
